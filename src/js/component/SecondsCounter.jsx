@@ -6,3 +6,5 @@ function ContadorDeSegundos(prop){
 }
 
 export default ContadorDeSegundos
+
+

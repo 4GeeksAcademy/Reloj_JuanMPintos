@@ -4,7 +4,7 @@ import ContadorDeSegundos from "./SecondsCounter";
 const Home = () => {
 	return (
 		<div>
-			<ContadorDeSegundos />
+			<ContadorDeSegundos/>
 		</div>
 
 	)
