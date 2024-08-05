@@ -1,12 +1,21 @@
-
-h1{
-    background-color: black;
-text-align: center;
-color: blanchedalmond;
-padding-top: 1cm;
-padding-bottom: 1cm;
-
+body {
+    background-color: rgb(217, 212, 212);
 }
-i{
+
+#reloj {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: black;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3cm;
+}
+
+i {
+    padding-right: 1cm;
+}
+p{
+    padding-left: 1cm;
     padding-right: 1cm;
 }
